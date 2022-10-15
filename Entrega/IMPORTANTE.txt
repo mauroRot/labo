@@ -1,0 +1,10 @@
+Buenas, 
+
+Ejecutar los códigos según el orden en que se encuentran. 
+
+El archivo subido a Kaggle es un ensamble de varios modelos. Lamentablemente, y espero que sepan disculpar, no encuentro aún el script del 4to modelo de los 6. No pierdo las esperanzas aún!
+
+Para los restantes, los cortes escogidos fueron de 9000. 
+
+Gracias y disculpas nuevamente. Trataré de remediarlo. 
+Mauro.  
