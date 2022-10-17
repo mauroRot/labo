@@ -1,0 +1,13 @@
+Buenas, 
+
+El archivo subido a Kaggle es un ensemble de varios modelos ("Subir_a_Kaggle.csv"). 
+
+Lamentablemente, y espero que sepan disculpar, no encuentro aún el script del 4to modelo de los 6 ensamblados. No pierdo las esperanzas aún!
+
+	De los restantes, corrí cada uno de los scripts (de menor a mayor, comenzando de "01.xxx" al "20.xxx"). Todos los archivos de corte elegidos fueron de 9000.
+
+	En el archivo "Armado de Ensembles.xlsx" obtuve el resultado final, el cual copié y subí a Kaggle en el mencionado anteriormente "Subir_a_Kaggle.csv".
+
+Gracias y disculpas nuevamente. Trataré de remediarlo. 
+
+Saludos, Mauro.  
